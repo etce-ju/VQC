@@ -2,8 +2,9 @@
 
 Code base for the paper **Multi-resolution Hierarchical Clustering by Vector Quantization**, Accepted at ICCCMLA 2019.
 
-Paper : [Paper]
-Presentation : [PPT]
+Paper : [Paper](https://github.com/etce-ju/VQC/blob/master/Multi_resolution_Hierarchical_Clustering_by_Vector_Quantization.pdf)
+
+Presentation : [PPT](https://github.com/etce-ju/VQC/blob/master/[146]ICCCMLA_VQC.pptx)
 
 ## Dataset
 
