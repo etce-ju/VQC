@@ -8,7 +8,7 @@ Presentation : [PPT](https://github.com/etce-ju/VQC/blob/master/[146]ICCCMLA_VQC
 
 ## Dataset
 
-[Breast Cancer Wisconsin (Diagnostic) Data Set](!https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+[Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
 
 ## Author
 [Mainak Pal](https://github.com/mpalrocks)
