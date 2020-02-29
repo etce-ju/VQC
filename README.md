@@ -4,7 +4,7 @@ Code base for the paper **Multi-resolution Hierarchical Clustering by Vector Qua
 
 Paper : [Paper](https://github.com/etce-ju/VQC/blob/master/Multi_resolution_Hierarchical_Clustering_by_Vector_Quantization.pdf)
 
-Presentation : [PPT](https://github.com/etce-ju/VQC/blob/master/[146]ICCCMLA_VQC.pptx)
+Presentation : [PPT](https://drive.google.com/file/d/1KCOsM-hCYFDJYhmTTszM-GrDOaL3W5Cg/view?usp=sharing)
 
 ## Dataset
 
